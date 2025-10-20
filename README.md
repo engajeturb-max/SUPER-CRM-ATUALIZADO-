@@ -1,1 +1,2 @@
-# SUPER-CRM-ATUALIZADO-
+# Extens-o-Super-Crm
+Extensão SuperCrm
